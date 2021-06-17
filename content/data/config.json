@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/cover.png"
+        "logo": "/images/cover.png",
+        "logo_alt": "Carlod"
     },
     "footer": {
         "has_nav": true,
